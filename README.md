@@ -7,3 +7,7 @@
 Just a very simple css animation with circles to simulate an explosion.
 
 </div>
+
+## About
+
+This project'll be part of my personal portfolio as an easter egg to add reviews.
